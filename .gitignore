@@ -1,0 +1,44 @@
+<<<<<<< HEAD
+# System and IDE files
+.DS_Store
+Thumbs.db
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Dependencies
+node_modules/
+bower_components/
+*.egg-info/
+
+# Logs
+*.log
+
+# Compiled files
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Output and document directories
+OUTPUT VIDEO/
+REVIEW DOCUMENTS/
+SRS/
+
+# Specific directories in your project structure
+SOURCE CODE/Hand Gesture Recognition using deep learning/model/.ipynb_checkpoints/
+SOURCE CODE/Hand Gesture Recognition using deep learning/model/Dataset/
+SOURCE CODE/Hand Gesture Recognition using deep learning/upload/
+SOURCE CODE/real time hand gesture recognition/landmark_utils/__pycache__/
+SOURCE CODE/real time hand gesture recognition/model/keypoint_classifier/__pycache__/
+SOURCE CODE/real time hand gesture recognition/model/__pycache__/
+=======
+
+>>>>>>> da6af2e3d501096c514acb8dceb8b16832eb40a8
